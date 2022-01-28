@@ -51,6 +51,6 @@ ZIP up your project files and upload the file to [WeTransfer.com](https://wetran
 send the submission to ```l.popp@custimy.io```
 
 ## Help
-If you encounter any problems with the deployment of the application, or you have any questions regarding the actual task, 
+If you have any questions regarding the process or the task, 
 please do not hesitate to send us an email at ```l.popp@custimy.io``` and we will quickly get back to you. 
 Any such questions will **not** count towards your final assessment.
