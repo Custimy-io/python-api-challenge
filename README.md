@@ -48,9 +48,9 @@ This contains the names and emails of 20 randomly generated people.
 ## Submission
 When you feel like you have arrived at a good solution, you can either push your code to a new repository or
 ZIP up your project files and upload the file to [WeTransfer.com](https://wetransfer.com/) and 
-send the submission to ```l.popp@custimy.io```
+send the submission to ```a.mazur@custimy.io```
 
 ## Help
 If you have any questions regarding the process or the task, 
-please do not hesitate to send us an email at ```l.popp@custimy.io``` and we will quickly get back to you. 
+please do not hesitate to send us an email at ```a.mazur@custimy.io``` and we will quickly get back to you. 
 Any such questions will **not** count towards your final assessment.
