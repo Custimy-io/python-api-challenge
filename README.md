@@ -10,8 +10,8 @@ The goal of this challenge is to create a basic Python script which will use the
 recursively fetch the estimated age of X amount of names provided from a JSON file and output the results to a 
 new JSON file. The estimated age must be appended to the person's existing data.
 
-
 This challenge will be assessed on efficiency and speed of the script, as well as the structure and extensibility.
+Think how your solution would work on much larger scale of users and how effectively API is used.
 
 Example input:
 ```
